@@ -11,3 +11,6 @@
 
 <img src="https://github.com/RenatoCunha-2025/Easy-Shopping/blob/main/img/desktop.png?raw=true"/>
 
+<p>Esse é um projeto responsivo</p>
+
+<img src="https://github.com/RenatoCunha-2025/Easy-Shopping/blob/main/img/celular.png?raw=true"/>
