@@ -121,22 +121,24 @@ header {
         display: none;
     }
 
-    h1{
+    h1 {
         font-size: 36px;
         line-height: 52px;
-        width:auto;
+        width: auto;
         margin: 58px 50px 0 58px;
         text-align: center;
     }
-    p{
-        margin:15px 40px;
+
+    p {
+        margin: 15px 40px;
         width: auto;
         text-align: center;
-        font-size:  14px;
+        font-size: 14px;
         line-height: 24px;
     }
-button{
-    margin:0 auto;
-    display:block;
-}
+
+    button {
+        margin: 0 auto;
+        display: block;
+    }
 }
